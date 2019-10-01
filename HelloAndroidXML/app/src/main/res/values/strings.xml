@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello Android XML</string>
+    <string name="hello">Hello world from XML!</string>
+</resources>
